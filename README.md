@@ -1,5 +1,5 @@
 <h1> Hello! 👋 </h1> 
-My name is João Victor Ramponi Zanon, I'm 16 years old, and I'm a student at ETEC de Registro. I've been fascinated by technology since I was a child, and I'm now on the path to becoming a developer.
+My name is João Victor Ramponi Zanon, I'm 17 years old, and I'm a student at ETEC de Registro. I've been fascinated by technology since I was a child, and I'm now on the path to becoming a developer.
 
 Currently, I'm taking an English course to enhance my communication skills, especially in the global programming environment. My favorite programming language is C#, and I'm always looking for new projects and challenges to improve my skills.
 
