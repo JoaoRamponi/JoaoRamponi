@@ -1,4 +1,4 @@
-<img src="githubanner.JPG"/>
+<img src="bannerGitHub.JPG"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joaoramponi" target="_blank">
