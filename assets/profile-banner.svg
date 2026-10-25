@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
+  <title id="title">Welcome to João's GitHub</title>
+  <desc id="description">A minimalist black and white mountain landscape.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f4f4f4"/>
+      <stop offset="1" stop-color="#bdbdbd"/>
+    </linearGradient>
+    <linearGradient id="foreground" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#111"/>
+      <stop offset="1" stop-color="#050505"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#sky)"/>
+  <text x="600" y="102" fill="#171717" font-family="monospace" font-size="28" text-anchor="middle" letter-spacing="2">WELCOME TO MY GITHUB</text>
+  <text x="600" y="137" fill="#303030" font-family="monospace" font-size="22" text-anchor="middle">&lt;/&gt;</text>
+  <path d="M0 205 120 174 200 192 312 152 390 177 515 163 610 188 735 154 825 179 948 145 1048 181 1140 161 1200 176V300H0Z" fill="#292929"/>
+  <path d="m0 226 140-28 98 21 116-35 95 29 105-13 93 25 122-37 111 30 118-35 105 31 97-19v105H0Z" fill="url(#foreground)"/>
+  <path d="M0 249c158-12 251-17 355-4 90 11 137 31 228 24 92-8 155-39 257-34 105 5 195 35 360 18v47H0Z" fill="#050505"/>
+  <path d="M572 300c39-24 79-31 119-41 43-10 78-22 110-44-10 26-31 43-68 57-37 13-77 19-102 28Z" fill="#e8e8e8"/>
+  <path d="M668 300c40-15 76-20 110-33 26-10 46-21 66-37-10 23-30 39-57 51-29 13-62 15-84 19Z" fill="#bdbdbd"/>
+</svg>
