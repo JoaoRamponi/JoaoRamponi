@@ -17,7 +17,7 @@ My favorite programming language is **C#**. I'm always curious to learn, experim
 
 ### Technologies
 
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/C%23-181818?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
   <img src="https://img.shields.io/badge/PHP-181818?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
