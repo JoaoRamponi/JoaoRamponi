@@ -16,7 +16,6 @@ I'm a student at **ETEC de Registro** with a long-standing interest in technolog
 My favorite programming language is **C#**. I'm always curious to learn, experiment, and grow as a developer.
 
 ### Technologies
-
 <div align="center">
   <img src="https://img.shields.io/badge/C%23-181818?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
