@@ -19,6 +19,12 @@ My favorite programming language is **C#**. I'm always curious to learn, experim
 
 <div>
   <img src="https://img.shields.io/badge/C%23-181818?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-181818?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-181818?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML-181818?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/Blade-181818?style=for-the-badge" alt="Blade" />
+  <img src="https://img.shields.io/badge/Hack-181818?style=for-the-badge" alt="Hack" />
 </div>
 
 ### GitHub statistics
