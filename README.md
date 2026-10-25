@@ -19,6 +19,7 @@ My favorite programming language is **C#**. I'm always curious to learn, experim
 
 <div>
   <img src="https://img.shields.io/badge/C%23-181818?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  
 </div>
 
 ### GitHub statistics
@@ -28,9 +29,9 @@ My favorite programming language is **C#**. I'm always curious to learn, experim
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoRamponi&layout=compact&hide_border=true&bg_color=0d1117&title_color=f0f0f0&text_color=b0b0b0" alt="Most used languages" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoRamponi&bg_color=0d1117&color=b0b0b0&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Contribution graph" width="100%" />
-</div>
+</div> -->
 
 <div align="center">
   <sub>Thanks for stopping by!</sub>
