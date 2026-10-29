@@ -28,8 +28,8 @@ My favorite programming language is **C#**. I'm always curious to learn, experim
 
 ### GitHub statistics
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JoaoRamponi&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f0f0f0&text_color=b0b0b0&icon_color=ffffff" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoRamponi&layout=compact&hide_border=true&bg_color=0d1117&title_color=f0f0f0&text_color=b0b0b0" alt="Most used languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=JoaoRamponi&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f0f0f0&text_color=b0b0b0&icon_color=ffffff" alt="GitHub statistics" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JoaoRamponi&layout=compact&hide_border=true&bg_color=0d1117&title_color=f0f0f0&text_color=b0b0b0" alt="Most used languages" />
 </div>
 
 <div align="center">
